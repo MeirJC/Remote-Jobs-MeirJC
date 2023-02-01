@@ -1,0 +1,12 @@
+{
+  "name": "javascript-jobsapi",
+  "version": "1.0.0",
+  "description": "A website to fetch from API and display remote job offers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meir J Cohen",
+  "license": "ISC",
+  "type": "module"
+}
